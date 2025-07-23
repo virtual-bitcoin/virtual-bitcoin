@@ -1,6 +1,6 @@
 Virtual Bitcoin
 ===============
-https://vbitco.in
+https://virtual-bitcoin.github.io/
 
 What is Virtual Bitcoin?
 ------------------------
@@ -10,7 +10,7 @@ Virtual Bitcoin is the addition of mining functionality to [ERC-20](https://ethe
 
 Contract Address
 ----------------
-[0x84e7ae4897b3847b67f212aff78bfbc5f700aa40](https://etherscan.io/token/0x84e7ae4897b3847b67f212aff78bfbc5f700aa40)
+[0x84e7AE4897B3847B67f212Aff78BFbC5f700aa40](https://etherscan.io/token/0x84e7AE4897B3847B67f212Aff78BFbC5f700aa40)
 
 License
 -------
